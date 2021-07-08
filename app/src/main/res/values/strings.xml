@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PeopleFilter</string>
+    <string name="filter_button">Фильтер</string>
+</resources>
